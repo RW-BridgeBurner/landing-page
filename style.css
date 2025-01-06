@@ -1,0 +1,46 @@
+* {
+    font-family: Roboto;
+}
+
+
+.container{
+    
+
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+a {
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+.top {
+    background-color: #1F2937;
+}
+
+.midtop {
+    
+}
+
+.midbottom {
+    background-color: #E5E7EB;
+
+}
+
+.bottom {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    color: #1F2937;
+    background-color: #E5E7EB;
+}
