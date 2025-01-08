@@ -1,6 +1,7 @@
 * {
     font-family: Roboto;
     margin: 0;
+    padding: 0;
 }
 
 
@@ -174,8 +175,8 @@ button {
     color: #E5E7EB;
     display: flex;
     justify-content: center;
-    padding: 10px;
-    padding-bottom: 10px;
+    padding: 15px;
+    padding-bottom: 20px;
     margin-top: auto;
     font-size: 9px;
 }
